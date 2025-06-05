@@ -1,4 +1,5 @@
 ![Computer Coding GIF by Xbox](https://github.com/user-attachments/assets/a5cf67cb-5d96-40e2-b5c9-d317d5fddb38)
+<br>
 Sure! Here’s a professional and impressive GitHub profile description tailored for a **cybersecurity student** like you with **projects, Python skills, and a SOC Analyst career goal**:
 
 ---
