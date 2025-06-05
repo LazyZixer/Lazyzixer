@@ -16,7 +16,7 @@
 
 🔐 **Projects**:
 
-* 🔥 [Ghost Mail](https://github.com/LazyZixer/GhostMail) – A secure self-destructing messaging platform with AES-256 encryption, QR code access, fake decoys, and optional Tor support.
+* 🔥 [Ghost Mail] – A secure self-destructing messaging platform with AES-256 encryption, QR code access, fake decoys, and optional Tor support.
 * 🛡️ More privacy/security tools in progress...
 
 🌐 **What I’m working on now**:
